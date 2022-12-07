@@ -1,1 +1,1 @@
-Bu bir dallanma örneğidir.
+Bu bir dallanma örneğidir. Açık Kaynak Yazılım Geliştirme dersi için oluşturulmuştur.
